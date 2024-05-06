@@ -1,0 +1,149 @@
+[
+  {
+  "model": "proyectos.PaisUsuario",
+  "pk": 1,
+  "fields": {
+      "pais": "Argentina"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 2,
+  "fields": {
+      "pais": "Bolivia"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 3,
+  "fields": {
+      "pais": "Chile"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 4,
+  "fields": {
+      "pais": "Colombia"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 5,
+  "fields": {
+      "pais": "Costa Rica"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 6,
+  "fields": {
+      "pais": "Cuba"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 7,
+  "fields": {
+      "pais": "Ecuador"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 8,
+  "fields": {
+      "pais": "El Salvador"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 9,
+  "fields": {
+      "pais": "España"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 10,
+  "fields": {
+      "pais": "Guatemala"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 11,
+  "fields": {
+      "pais": "Guinea Ecuatorial"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 12,
+  "fields": {
+      "pais": "Honduras"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 13,
+  "fields": {
+      "pais": "México"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 14,
+  "fields": {
+      "pais": "Nicaragua"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 15,
+  "fields": {
+      "pais": "Panamá"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 16,
+  "fields": {
+      "pais": "Paraguay"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 17,
+  "fields": {
+      "pais": "Perú"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 18,
+  "fields": {
+      "pais": "Puerto Rico"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 19,
+  "fields": {
+      "pais": "República Dominicana"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 20,
+  "fields": {
+      "pais": "Uruguay"
+  }
+},
+{
+  "model": "proyectos.PaisUsuario",
+  "pk": 21,
+  "fields": {
+      "pais": "Venezuela"
+  }
+}
+]

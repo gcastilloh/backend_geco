@@ -1,0 +1,27 @@
+
+[
+    {
+        "model": "proyectos.tipo_colaboracion",
+        "pk": 1,
+        "fields": {
+            "tipo": "propietario",
+            "descripcion": "Propietario con derechos plenos para administrar el corpus"
+        }
+    },
+    {
+        "model": "proyectos.tipo_colaboracion",
+        "pk": 2,
+        "fields": {
+            "tipo": "colaborador",
+            "descripcion": "Colaborador con derechos plenos sobre los archivos del corpus pero no puede agregar nuevos colaboradores"
+        }
+    },
+    {
+        "model": "proyectos.tipo_colaboracion",
+        "pk": 3,
+        "fields": {
+            "tipo": "lector",
+            "descripcion": "Persona que tiene derecho de lectura sobre un corpus privado"
+        }
+    }
+]

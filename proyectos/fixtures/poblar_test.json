@@ -1,0 +1,594 @@
+[
+    {
+        "model": "auth.user",
+        "pk": 1,
+        "fields": {
+            "password": "pbkdf2_sha256$216000$ak42K9YflWGX$pJ8dzwY7SLfJWpiHgU5OAmVJGj/H0SBLRqoO5mRG93U=",
+            "last_login": "2020-09-30T01:48:40.344Z",
+            "is_superuser": true,
+            "username": "gcastilloh",
+            "first_name": "",
+            "last_name": "",
+            "email": "gch@pumas.iingen.UNAM.mx",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2020-09-29T23:01:32.572Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 4,
+        "fields": {
+            "password": "pbkdf2_sha256$216000$GOkU8vGjTAhM$mPlmOL9rJOPH2gnpr5uovu4fHBFjhKeQ5EJQJyW6y1Q=",
+            "last_login": "2020-10-06T22:47:27.509Z",
+            "is_superuser": false,
+            "username": "ana",
+            "first_name": "Ana María",
+            "last_name": "Rodríguez Torres",
+            "email": "ana@gmail.com",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2020-09-30T01:44:23.439Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 5,
+        "fields": {
+            "password": "pbkdf2_sha256$216000$yycsxr0jZshd$1iEpGteVK+0ANiotn7mit2yHxPX93cxTMZw3DEzoVJk=",
+            "last_login": "2020-10-06T18:12:18.090Z",
+            "is_superuser": false,
+            "username": "luis",
+            "first_name": "Luis",
+            "last_name": "Lopez Setina",
+            "email": "llopez@gmail.com",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2020-10-06T18:12:17.784Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 6,
+        "fields": {
+            "password": "pbkdf2_sha256$216000$5DBa8kS8yKNV$NrFVHUdaCcUy6a8IWMUtArRKBSvXajvwAA4z5Tm6HE4=",
+            "last_login": "2020-10-07T00:49:24.097Z",
+            "is_superuser": false,
+            "username": "marcela",
+            "first_name": "Marcela",
+            "last_name": "Andrade Lopez",
+            "email": "andi@gmail.com",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2020-10-07T00:49:23.348Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 7,
+        "fields": {
+            "password": "pbkdf2_sha256$216000$rPP8EH2VxJOc$CvUil4Q4MXTbcbObFrZWsMfMUeauGiVjj1ePcnFQuWw=",
+            "last_login": "2020-10-07T00:50:40.078Z",
+            "is_superuser": false,
+            "username": "pedro",
+            "first_name": "Pedro",
+            "last_name": "Pruneda Lopez",
+            "email": "peter@hotmail.com",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2020-10-07T00:50:39.325Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 8,
+        "fields": {
+            "password": "pbkdf2_sha256$216000$BdKhWsfzBw1w$ru2Hd3pwriqM636LLJUZYK+suHZXP2bJoBcmkogl4R8=",
+            "last_login": "2020-10-07T00:56:21.480Z",
+            "is_superuser": false,
+            "username": "patricia",
+            "first_name": "Patricia",
+            "last_name": "Mondragon Hernandez",
+            "email": "pmondragon@outlook.com",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2020-10-07T00:56:20.756Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 9,
+        "fields": {
+            "password": "pbkdf2_sha256$216000$cNkl7xMWJzeU$WTXPT6uAWALjb8VXxqWr7YsRqWgXKzbyKAEhUBM7BaA=",
+            "last_login": "2020-10-07T00:58:32.257Z",
+            "is_superuser": false,
+            "username": "victor",
+            "first_name": "Victor",
+            "last_name": "Valencia Mireles",
+            "email": "vic@signo.com",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2020-10-07T00:58:31.556Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "proyectos.usuariogeco",
+        "pk": 2,
+        "fields": {
+            "usuario": 4,
+            "nombre": "Ana María",
+            "apellidos": "Rodríguez Torres",
+            "grado_academico": "ESP",
+            "institucion": "UNAM",
+            "foto_perfil": "fotosPerfil/ana.jpg"
+        }
+    },
+    {
+        "model": "proyectos.usuariogeco",
+        "pk": 3,
+        "fields": {
+            "usuario": 5,
+            "nombre": "Luis",
+            "apellidos": "Lopez Setina",
+            "grado_academico": "ESP",
+            "institucion": "UNAM",
+            "foto_perfil": "fotosPerfil/luis.jpg"
+        }
+    },
+    {
+        "model": "proyectos.usuariogeco",
+        "pk": 4,
+        "fields": {
+            "usuario": 6,
+            "nombre": "Marcela",
+            "apellidos": "Andrade Lopez",
+            "grado_academico": "LIC",
+            "institucion": "IPN",
+            "foto_perfil": "fotosPerfil/marcela.jpg"
+        }
+    },
+    {
+        "model": "proyectos.usuariogeco",
+        "pk": 5,
+        "fields": {
+            "usuario": 7,
+            "nombre": "Pedro",
+            "apellidos": "Pruneda Lopez",
+            "grado_academico": "DOC",
+            "institucion": "ipn",
+            "foto_perfil": "fotosPerfil/pedro.jpg"
+        }
+    },
+    {
+        "model": "proyectos.usuariogeco",
+        "pk": 6,
+        "fields": {
+            "usuario": 8,
+            "nombre": "Patricia",
+            "apellidos": "Mondragon Hernandez",
+            "grado_academico": "NONE",
+            "institucion": "sep",
+            "foto_perfil": "fotosPerfil/patricia.jpg"
+        }
+    },
+    {
+        "model": "proyectos.usuariogeco",
+        "pk": 7,
+        "fields": {
+            "usuario": 9,
+            "nombre": "Victor",
+            "apellidos": "Valencia Mireles",
+            "grado_academico": "LIC",
+            "institucion": "upf",
+            "foto_perfil": "fotosPerfil/victor.jpg"
+        }
+    },
+    {
+        "model": "proyectos.proyecto",
+        "pk": 1,
+        "fields": {
+            "nombre": "Corpus de las Sexualidades en Honduras",
+            "descripcion": "Constituido por una amplia colección de documentos sobre el área de sexualidad, que van desde artículos especializados hasta obras literarias.",
+            "repositorio": "gatosnpnp",
+            "activo": true,
+            "es_publico": false,
+            "es_paralelo": false,
+            "es_colaborativo": true,
+            "creacion": "2020-08-19T19:28:20.407Z",
+            "fecha_borrado": null
+        }
+    },
+    {
+        "model": "proyectos.colaborador_proyecto",
+        "pk": 1,
+        "fields": {
+            "proyecto": 1,
+            "colaborador": 2,
+            "fecha_alta": "2020-10-06T22:33:00.489Z",
+            "activo": true,
+            "tipo_colaborador": 1,
+            "vigencia": 0,
+            "fecha_fin_vigencia": "2040-08-19T19:28:20.407Z",
+            "fecha_ultimo_ingreso": "2020-08-19T19:28:20.407Z"
+        }
+    },
+    {
+        "model": "proyectos.colaborador_proyecto",
+        "pk": 2,
+        "fields": {
+            "proyecto": 1,
+            "colaborador": 3,
+            "fecha_alta": "2020-10-06T22:33:00.489Z",
+            "activo": true,
+            "tipo_colaborador": 2,
+            "vigencia": 0,
+            "fecha_fin_vigencia": "2040-08-19T19:28:20.407Z",
+            "fecha_ultimo_ingreso": "2020-08-19T19:28:20.407Z"
+        }
+    },    
+    {
+        "model": "proyectos.colaborador_proyecto",
+        "pk": 3,
+        "fields": {
+            "proyecto": 1,
+            "colaborador": 4,
+            "fecha_alta": "2020-10-06T22:33:00.489Z",
+            "activo": true,
+            "tipo_colaborador": 2,
+            "vigencia": 0,
+            "fecha_fin_vigencia": "2040-08-19T19:28:20.407Z",
+            "fecha_ultimo_ingreso": "2020-08-19T19:28:20.407Z"
+        }
+    },    
+    {
+        "model": "proyectos.colaborador_proyecto",
+        "pk": 4,
+        "fields": {
+            "proyecto": 1,
+            "colaborador": 5,
+            "fecha_alta": "2020-10-06T22:33:00.489Z",
+            "activo": true,
+            "tipo_colaborador": 3,
+            "vigencia": 0,
+            "fecha_fin_vigencia": "2040-08-19T19:28:20.407Z",
+            "fecha_ultimo_ingreso": "2020-08-19T19:28:20.407Z"
+        }
+    },
+    {
+        "model": "proyectos.proyecto",
+        "pk": 2,
+        "fields": {
+            "nombre": "Corpus del Derecho Penal Peruano",
+            "descripcion":"Corpus electrónico que permite desarrollar análisis léxico, fraseológico y terminológico del discurso jurídico en el ámbito del derecho penal. ",
+            "repositorio": "ballenaspnp",
+            "activo": true,
+            "es_publico": true,
+            "es_paralelo": false,
+            "es_colaborativo": true,
+            "creacion": "2020-08-19T19:28:20.407Z",
+            "fecha_borrado": null
+        }
+    },
+    {
+        "model": "proyectos.colaborador_proyecto",
+        "pk": 5,
+        "fields": {
+            "proyecto": 2,
+            "colaborador": 2,
+            "fecha_alta": "2020-10-06T22:33:00.489Z",
+            "activo": true,
+            "tipo_colaborador": 1,
+            "vigencia": 0,
+            "fecha_fin_vigencia": "2040-08-19T19:28:20.407Z",
+            "fecha_ultimo_ingreso": "2020-08-19T19:28:20.407Z"
+        }
+    },
+    {
+        "model": "proyectos.colaborador_proyecto",
+        "pk": 6,
+        "fields": {
+            "proyecto": 2,
+            "colaborador": 4,
+            "fecha_alta": "2020-10-06T22:33:00.489Z",
+            "activo": true,
+            "tipo_colaborador": 3,
+            "vigencia": 0,
+            "fecha_fin_vigencia": "2040-08-19T19:28:20.407Z",
+            "fecha_ultimo_ingreso": "2020-08-19T19:28:20.407Z"
+        }
+    },    
+    {
+        "model": "proyectos.proyecto",
+        "pk": 3,
+        "fields": {
+            "nombre": "Corpus Científico del Español en Argentina",
+            "descripcion": "Es una herramienta informática que se creó para la identificación, estudio y caracterización del vocabulario básico científico del español de Argentina, mismo que para fines de esta investigación se define como el vocabulario científico que un hablante culto promedio debiera comprender.",
+            "repositorio": "avesnpnp",
+            "activo": true,
+            "es_publico": false,
+            "es_paralelo": false,
+            "es_colaborativo": true,
+            "creacion": "2020-08-19T19:28:20.407Z",
+            "fecha_borrado": null
+        }
+    },
+    {
+        "model": "proyectos.colaborador_proyecto",
+        "pk": 7,
+        "fields": {
+            "proyecto": 3,
+            "colaborador": 2,
+            "fecha_alta": "2020-10-06T22:33:00.489Z",
+            "activo": true,
+            "tipo_colaborador": 1,
+            "vigencia": 0,
+            "fecha_fin_vigencia": "2040-08-19T19:28:20.407Z",
+            "fecha_ultimo_ingreso": "2020-08-19T19:28:20.407Z"
+        }
+    },
+    {
+        "model": "proyectos.proyecto",
+        "pk": 4,
+        "fields": {
+            "nombre": "Biblias P P",
+            "descripcion": "Biblias: Este es el proyecto número uno de los corpus de pruebas paralelos",
+            "repositorio": "bibliaspp",
+            "activo": true,
+            "es_publico": true,
+            "es_paralelo": true,
+            "es_colaborativo": true,
+            "creacion": "2020-08-19T19:28:20.407Z",
+            "fecha_borrado": null
+        }
+    },
+    {
+        "model": "proyectos.colaborador_proyecto",
+        "pk": 8,
+        "fields": {
+            "proyecto": 4,
+            "colaborador": 3,
+            "fecha_alta": "2020-10-06T22:33:00.489Z",
+            "activo": true,
+            "tipo_colaborador": 1,
+            "vigencia": 0,
+            "fecha_fin_vigencia": "2040-08-19T19:28:20.407Z",
+            "fecha_ultimo_ingreso": "2020-08-19T19:28:20.407Z"
+        }
+    },    
+    {
+        "model": "proyectos.colaborador_proyecto",
+        "pk": 9,
+        "fields": {
+            "proyecto": 3,
+            "colaborador": 5,
+            "fecha_alta": "2020-10-06T22:33:00.489Z",
+            "activo": true,
+            "tipo_colaborador": 2,
+            "vigencia": 0,
+            "fecha_fin_vigencia": "2040-08-19T19:28:20.407Z",
+            "fecha_ultimo_ingreso": "2020-08-19T19:28:20.407Z"
+        }
+    },
+    {
+        "model": "proyectos.colaborador_proyecto",
+        "pk": 10,
+        "fields": {
+            "proyecto": 3,
+            "colaborador": 7,
+            "fecha_alta": "2020-10-06T22:33:00.489Z",
+            "activo": true,
+            "tipo_colaborador": 2,
+            "vigencia": 0,
+            "fecha_fin_vigencia": "2040-08-19T19:28:20.407Z",
+            "fecha_ultimo_ingreso": "2020-08-19T19:28:20.407Z"
+        }
+    },        
+    {
+        "model": "proyectos.colaborador_proyecto",
+        "pk": 11,
+        "fields": {
+            "proyecto": 4,
+            "colaborador": 2,
+            "fecha_alta": "2020-10-06T22:33:00.489Z",
+            "activo": true,
+            "tipo_colaborador": 2,
+            "vigencia": 0,
+            "fecha_fin_vigencia": "2040-08-19T19:28:20.407Z",
+            "fecha_ultimo_ingreso": "2020-08-19T19:28:20.407Z"
+        }
+    },
+    {
+        "model": "proyectos.colaborador_proyecto",
+        "pk": 12,
+        "fields": {
+            "proyecto": 4,
+            "colaborador": 7,
+            "fecha_alta": "2020-10-06T22:33:00.489Z",
+            "activo": true,
+            "tipo_colaborador": 3,
+            "vigencia": 0,
+            "fecha_fin_vigencia": "2040-08-19T19:28:20.407Z",
+            "fecha_ultimo_ingreso": "2020-08-19T19:28:20.407Z"
+        }
+    },
+    {
+        "model": "proyectos.proyecto",
+        "pk": 5,
+        "fields": {
+            "nombre": "Corpus Histórico del Español en Chile",
+            "descripcion": "Está constituido por una amplia y creciente colección de documentos diacrónicos que representan diversos géneros textuales.",
+            "repositorio": "reptilesnpp",
+            "activo": true,
+            "es_publico": true,
+            "es_paralelo": false,
+            "es_colaborativo": false,
+            "creacion": "2020-08-19T19:28:20.407Z",
+            "fecha_borrado": null
+        }
+    },
+    {
+        "model": "proyectos.colaborador_proyecto",
+        "pk": 13,
+        "fields": {
+            "proyecto": 5,
+            "colaborador": 7,
+            "fecha_alta": "2020-10-06T22:33:00.489Z",
+            "activo": true,
+            "tipo_colaborador": 1,
+            "vigencia": 0,
+            "fecha_fin_vigencia": "2040-08-19T19:28:20.407Z",
+            "fecha_ultimo_ingreso": "2020-08-19T19:28:20.407Z"
+        }
+    },        
+    {
+        "model": "proyectos.proyecto",
+        "pk": 6,
+        "fields": {
+            "nombre": "PINOCHOS P P",
+            "descripcion": "Pinochos: Este es el proyecto número uno de los corpus de pruebas paralelos",
+            "repositorio": "pinochospp",
+            "activo": true,
+            "es_publico": true,
+            "es_paralelo": true,
+            "es_colaborativo": false,
+            "creacion": "2020-08-19T19:28:20.407Z",
+            "fecha_borrado": null
+        }
+    },
+    {
+        "model": "proyectos.colaborador_proyecto",
+        "pk": 14,
+        "fields": {
+            "proyecto": 6,
+            "colaborador": 5,
+            "fecha_alta": "2020-10-06T22:33:00.489Z",
+            "activo": true,
+            "tipo_colaborador": 1,
+            "vigencia": 0,
+            "fecha_fin_vigencia": "2040-08-19T19:28:20.407Z",
+            "fecha_ultimo_ingreso": "2020-08-19T19:28:20.407Z"
+        }
+    },
+    {
+        "model":"proyectos.proyecto_metadato",
+        "pk": 1,
+        "fields": {
+            "proyecto": 1,
+            "metadato" : 1,
+            "es_obligatorio" : true
+        }
+    },
+    {
+        "model":"proyectos.proyecto_metadato",
+        "pk": 2,
+        "fields": {
+            "proyecto": 1,
+            "metadato" : 2,
+            "es_obligatorio" : true
+        }
+    },
+    {
+        "model":"proyectos.proyecto_metadato",
+        "pk": 3,
+        "fields": {
+            "proyecto": 2,
+            "metadato" : 1,
+            "es_obligatorio" : true
+        }
+    },
+    {
+        "model":"proyectos.proyecto_metadato",
+        "pk": 4,
+        "fields": {
+            "proyecto": 2,
+            "metadato" : 2,
+            "es_obligatorio" : true
+        }
+    },
+    {
+        "model":"proyectos.proyecto_metadato",
+        "pk": 5,
+        "fields": {
+            "proyecto": 3,
+            "metadato" : 1,
+            "es_obligatorio" : true
+        }
+    },
+    {
+        "model":"proyectos.proyecto_metadato",
+        "pk": 6,
+        "fields": {
+            "proyecto": 3,
+            "metadato" : 2,
+            "es_obligatorio" : true
+        }
+    },
+    {
+        "model":"proyectos.proyecto_metadato",
+        "pk": 7,
+        "fields": {
+            "proyecto": 4,
+            "metadato" : 1,
+            "es_obligatorio" : true
+        }
+    },
+    {
+        "model":"proyectos.proyecto_metadato",
+        "pk": 8,
+        "fields": {
+            "proyecto": 4,
+            "metadato" : 2,
+            "es_obligatorio" : true
+        }
+    },
+    {
+        "model":"proyectos.proyecto_metadato",
+        "pk": 9,
+        "fields": {
+            "proyecto": 5,
+            "metadato" : 1,
+            "es_obligatorio" : true
+        }
+    },
+    {
+        "model":"proyectos.proyecto_metadato",
+        "pk": 10,
+        "fields": {
+            "proyecto": 5,
+            "metadato" : 2,
+            "es_obligatorio" : true
+        }
+    },
+    {
+        "model":"proyectos.proyecto_metadato",
+        "pk": 11,
+        "fields": {
+            "proyecto": 6,
+            "metadato" : 1,
+            "es_obligatorio" : true
+        }
+    },
+    {
+        "model":"proyectos.proyecto_metadato",
+        "pk": 12,
+        "fields": {
+            "proyecto": 6,
+            "metadato" : 2,
+            "es_obligatorio" : true
+        }
+    }
+]

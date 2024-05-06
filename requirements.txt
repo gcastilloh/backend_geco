@@ -1,0 +1,8 @@
+djangorestframework
+django-extensions
+django-debug-toolbar
+unidecode
+textract
+pandas
+requests
+psycopg2-binary

@@ -1,0 +1,146 @@
+[
+    {
+        "model": "proyectos.Metadato",
+        "pk": 1,
+        "fields": {
+            "abreviacion": "LNG",
+            "metadato": "Lengua",
+            "explicacion": "",
+            "es_general": true,
+            "es_obligatorio_general": true,
+            "es_catalogo": false
+        }
+    },
+    {
+        "model": "proyectos.Metadato",
+        "pk": 2,
+        "fields": {
+            "abreviacion": "TP",
+            "metadato": "Título principal",
+            "explicacion": "",
+            "es_general": true,
+            "es_obligatorio_general": true,
+            "es_catalogo": false
+        }
+    },
+    {
+        "model": "proyectos.Metadato",
+        "pk": 3,
+        "fields": {
+            "abreviacion": "TS",
+            "metadato": "Título secundario",
+            "explicacion": "",
+            "es_general": true,
+            "es_obligatorio_general": false,
+            "es_catalogo": false
+        }
+    },
+    {
+        "model": "proyectos.Metadato",
+        "pk": 4,
+        "fields": {
+            "abreviacion": "AUT",
+            "metadato": "Autor",
+            "explicacion": "",
+            "es_general": true,
+            "es_obligatorio_general": false,
+            "es_catalogo": false
+        }
+    },
+    {
+        "model": "proyectos.Metadato",
+        "pk": 5,
+        "fields": {
+            "abreviacion": "COMP",
+            "metadato": "Compilador",
+            "explicacion": "",
+            "es_general": true,
+            "es_obligatorio_general": false,
+            "es_catalogo": false
+        }
+    },
+    {
+        "model": "proyectos.Metadato",
+        "pk": 6,
+        "fields": {
+            "abreviacion": "TR",
+            "metadato": "Traductor",
+            "explicacion": "",
+            "es_general": true,
+            "es_obligatorio_general": false,
+            "es_catalogo": false
+        }
+    },
+    {
+        "model": "proyectos.Metadato",
+        "pk": 7,
+        "fields": {
+            "abreviacion": "ED",
+            "metadato": "Editorial",
+            "explicacion": "",
+            "es_general": true,
+            "es_obligatorio_general": false,
+            "es_catalogo": false
+        }
+    },
+    {
+        "model": "proyectos.Metadato",
+        "pk": 8,
+        "fields": {
+            "abreviacion": "AÑO",
+            "metadato": "Año",
+            "explicacion": "",
+            "es_general": true,
+            "es_obligatorio_general": false,
+            "es_catalogo": false
+        }
+    },
+    {
+        "model": "proyectos.Metadato",
+        "pk": 9,
+        "fields": {
+            "abreviacion": "NUM",
+            "metadato": "Número",
+            "explicacion": "",
+            "es_general": true,
+            "es_obligatorio_general": false,
+            "es_catalogo": false
+        }
+    },
+    {
+        "model": "proyectos.Metadato",
+        "pk": 10,
+        "fields": {
+            "abreviacion": "País",
+            "metadato": "País",
+            "explicacion": "",
+            "es_general": true,
+            "es_obligatorio_general": false,
+            "es_catalogo": false
+        }
+    },
+    {
+        "model": "proyectos.Metadato",
+        "pk": 12,
+        "fields": {
+            "abreviacion": "NTS",
+            "metadato": "Notas",
+            "explicacion": "",
+            "es_general": true,
+            "es_obligatorio_general": false,
+            "es_catalogo": false
+        }
+    },
+    {
+        "model": "proyectos.Metadato",
+        "pk": 13,
+        "fields": {
+            "abreviacion": "DIR",
+            "metadato": "Director",
+            "explicacion": "",
+            "es_general": false,
+            "es_obligatorio_general": false,
+            "es_catalogo": false
+        }
+    }
+  ]

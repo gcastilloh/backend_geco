@@ -1,0 +1,1822 @@
+[
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 1,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "es",
+        "opcion": "español (o castellano)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 2,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ca",
+        "opcion": "catalán",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 3,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "pt",
+        "opcion": "portugués",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 4,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "it",
+        "opcion": "italiano",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 5,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "fr",
+        "opcion": "francés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 6,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "en",
+        "opcion": "inglés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 7,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "de",
+        "opcion": "alemán",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 8,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ar",
+        "opcion": "árabe",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 9,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ay",
+        "opcion": "aimara",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 10,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ak",
+        "opcion": "akano",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 11,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "sq",
+        "opcion": "albanés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 12,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "am",
+        "opcion": "amárico",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 13,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "an",
+        "opcion": "aragonés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 14,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "hy",
+        "opcion": "armenio",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 15,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "as",
+        "opcion": "asamés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 16,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "av",
+        "opcion": "avar",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 17,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ae",
+        "opcion": "avéstico",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 18,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "az",
+        "opcion": "azerí",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 19,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "bm",
+        "opcion": "bambara",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 20,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ba",
+        "opcion": "baskir",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 21,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "bn",
+        "opcion": "bengalí",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 22,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "bh",
+        "opcion": "bhojpurí",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 23,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "be",
+        "opcion": "bielorruso",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 24,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "my",
+        "opcion": "birmano",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 25,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "bi",
+        "opcion": "bislama",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 26,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "bs",
+        "opcion": "bosnio",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 27,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "br",
+        "opcion": "bretón",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 28,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "bg",
+        "opcion": "búlgaro",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 29,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ks",
+        "opcion": "cachemiro",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 30,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "km",
+        "opcion": "camboyano (o jemer)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 31,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "kn",
+        "opcion": "canarés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 32,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ch",
+        "opcion": "chamorro",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 33,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ce",
+        "opcion": "checheno",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 34,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "cs",
+        "opcion": "checo",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 35,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ny",
+        "opcion": "chichewa",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 36,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "zh",
+        "opcion": "chino",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 37,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "za",
+        "opcion": "chuan (o zhuang)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 38,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "cv",
+        "opcion": "chuvasio",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 39,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "si",
+        "opcion": "cingalés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 40,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ko",
+        "opcion": "coreano",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 41,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "kw",
+        "opcion": "córnico",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 42,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "co",
+        "opcion": "corso",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 43,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "cr",
+        "opcion": "cree",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 44,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "hr",
+        "opcion": "croata",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 45,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "da",
+        "opcion": "danés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 46,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "dz",
+        "opcion": "dzongkha",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 47,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "cu",
+        "opcion": "eslavo eclesiástico antiguo",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 48,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "sk",
+        "opcion": "eslovaco",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 49,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "sl",
+        "opcion": "esloveno",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 50,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "eo",
+        "opcion": "esperanto",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 51,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "et",
+        "opcion": "estonio",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 52,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ee",
+        "opcion": "ewe",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 53,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "fo",
+        "opcion": "feroés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 54,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "fj",
+        "opcion": "fijiano (o fidji)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 55,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "fi",
+        "opcion": "finés (o finlandés)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 56,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "fy",
+        "opcion": "frisón (o frisio)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 57,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ff",
+        "opcion": "fula",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 58,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "gd",
+        "opcion": "gaélico escocés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 59,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "cy",
+        "opcion": "galés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 60,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "gl",
+        "opcion": "gallego",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 61,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ka",
+        "opcion": "georgiano",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 62,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "el",
+        "opcion": "griego (moderno)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 63,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "kl",
+        "opcion": "groenlandés (o kalaallisut)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 64,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "gn",
+        "opcion": "guaraní",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 65,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "gu",
+        "opcion": "guyaratí (o guyaratí)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 66,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ht",
+        "opcion": "haitiano",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 67,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ha",
+        "opcion": "hausa",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 68,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "he",
+        "opcion": "hebreo",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 69,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "hz",
+        "opcion": "herero",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 70,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "hi",
+        "opcion": "hindi (o hindú)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 71,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ho",
+        "opcion": "hiri motu",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 72,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "hu",
+        "opcion": "húngaro",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 73,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "io",
+        "opcion": "ido",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 74,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ig",
+        "opcion": "igbo",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 75,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "id",
+        "opcion": "indonesio",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 76,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ia",
+        "opcion": "interlingua",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 77,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "iu",
+        "opcion": "inuktitut",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 78,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ik",
+        "opcion": "inupiaq",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 79,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ga",
+        "opcion": "irlandés (o gaélico)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 80,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "is",
+        "opcion": "islandés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 81,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ja",
+        "opcion": "japonés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 82,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "jv",
+        "opcion": "javanés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 83,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "kr",
+        "opcion": "kanuri",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 84,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "kk",
+        "opcion": "kazajo (o kazajio)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 85,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ki",
+        "opcion": "kikuyu",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 86,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ky",
+        "opcion": "kirguís",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 87,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "rn",
+        "opcion": "kirundi",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 88,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "kv",
+        "opcion": "komi",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 89,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "kg",
+        "opcion": "kongo",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 90,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "kj",
+        "opcion": "kuanyama",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 91,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ku",
+        "opcion": "kurdo",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 92,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "lo",
+        "opcion": "lao",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 93,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "la",
+        "opcion": "latín",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 94,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "lv",
+        "opcion": "letón",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 95,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "li",
+        "opcion": "limburgués",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 96,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ln",
+        "opcion": "lingala",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 97,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "lt",
+        "opcion": "lituano",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 98,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "lu",
+        "opcion": "luba-katanga",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 99,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "lg",
+        "opcion": "luganda",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 100,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "lb",
+        "opcion": "luxemburgués",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 101,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "mk",
+        "opcion": "macedonio",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 102,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ml",
+        "opcion": "malayalam",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 103,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ms",
+        "opcion": "malayo",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 104,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "dv",
+        "opcion": "maldivo",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 105,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "mg",
+        "opcion": "malgache (o malagasy)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 106,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "mt",
+        "opcion": "maltés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 107,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "gv",
+        "opcion": "manés (gaélico manés o de Isla de Man)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 108,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "mi",
+        "opcion": "maorí",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 109,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "mr",
+        "opcion": "maratí",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 110,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "mh",
+        "opcion": "marshalés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 111,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "mo",
+        "opcion": "moldavo",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 112,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "mn",
+        "opcion": "mongol",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 113,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "na",
+        "opcion": "nauruano",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 114,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "nv",
+        "opcion": "navajo",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 115,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "nd",
+        "opcion": "ndebele del norte",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 116,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "nr",
+        "opcion": "ndebele del sur",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 117,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ng",
+        "opcion": "ndonga",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 118,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "nl",
+        "opcion": "neerlandés (u holandés)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 119,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ne",
+        "opcion": "nepalí",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 120,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "no",
+        "opcion": "noruego",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 121,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "nb",
+        "opcion": "noruego bokmål",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 122,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "nn",
+        "opcion": "nynorsk",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 123,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ie",
+        "opcion": "occidental",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 124,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "oc",
+        "opcion": "occitano",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 125,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "oj",
+        "opcion": "ojibwa",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 126,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "or",
+        "opcion": "oriya",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 127,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "om",
+        "opcion": "oromo",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 128,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "os",
+        "opcion": "osético",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 129,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "pi",
+        "opcion": "pali",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 130,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "pa",
+        "opcion": "panyabí (o penyabi)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 131,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ps",
+        "opcion": "pastú (o pashto)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 132,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "fa",
+        "opcion": "persa",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 133,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "pl",
+        "opcion": "polaco",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 135,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "qu",
+        "opcion": "quechua",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 136,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "rm",
+        "opcion": "retorrománico",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 137,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "rw",
+        "opcion": "ruandés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 138,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ro",
+        "opcion": "rumano",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 139,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ru",
+        "opcion": "ruso",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 140,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "se",
+        "opcion": "sami septentrional",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 141,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "sm",
+        "opcion": "samoano",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 142,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "sg",
+        "opcion": "sango",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 143,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "sa",
+        "opcion": "sánscrito",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 144,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "sc",
+        "opcion": "sardo",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 145,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "sr",
+        "opcion": "serbio",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 146,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "st",
+        "opcion": "sesotho",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 147,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "tn",
+        "opcion": "setsuana",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 148,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "sn",
+        "opcion": "shona",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 149,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "sd",
+        "opcion": "sindhi",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 150,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "so",
+        "opcion": "somalí",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 151,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "sw",
+        "opcion": "suajili",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 152,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ss",
+        "opcion": "suazi (swati o siSwati)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 153,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "sv",
+        "opcion": "sueco",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 154,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "su",
+        "opcion": "sundanés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 155,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "tl",
+        "opcion": "tagalo",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 156,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ty",
+        "opcion": "tahitiano",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 157,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "th",
+        "opcion": "tailandés",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 158,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ta",
+        "opcion": "tamil",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 159,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "tt",
+        "opcion": "tártaro",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 160,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "tg",
+        "opcion": "tayiko",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 161,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "te",
+        "opcion": "telugú",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 162,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "bo",
+        "opcion": "tibetano",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 163,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ti",
+        "opcion": "tigriña",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 164,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "to",
+        "opcion": "tongano",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 165,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ts",
+        "opcion": "tsonga",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 166,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "tr",
+        "opcion": "turco",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 167,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "tk",
+        "opcion": "turcomano",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 168,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "tw",
+        "opcion": "twi",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 169,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "uk",
+        "opcion": "ucraniano",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 170,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ug",
+        "opcion": "uigur",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 171,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ur",
+        "opcion": "urdu",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 172,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "uz",
+        "opcion": "uzbeko",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 173,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "wa",
+        "opcion": "valón",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 174,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "eu",
+        "opcion": "vascuence (o euskera)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 175,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ve",
+        "opcion": "venda",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 176,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "vi",
+        "opcion": "vietnamita",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 177,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "vo",
+        "opcion": "volapük",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 178,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "wo",
+        "opcion": "wolof",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 179,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "xh",
+        "opcion": "xhosa",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 180,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "ii",
+        "opcion": "yi de Sichuán",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 181,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "yi",
+        "opcion": "yídish (o yiddish)",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 182,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "yo",
+        "opcion": "yoruba",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 183,
+    "fields": {
+        "metadato": 1,
+        "abreviacion": "zu",
+        "opcion": "zulú",
+        "explicacion": ""
+    }
+  }
+]

@@ -1,0 +1,2402 @@
+[
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 500,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MEX",
+        "opcion": "México",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 501,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "AND",
+        "opcion": "Andorra",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 502,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ARE",
+        "opcion": "Emiratos Árabes Unidos",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 503,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "AFG",
+        "opcion": "Afganistán",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 504,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ATG",
+        "opcion": "Antigua y Barbuda",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 505,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "AIA",
+        "opcion": "Anguila",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 506,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ALB",
+        "opcion": "Albania",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 507,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ARM",
+        "opcion": "Armenia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 508,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ANT",
+        "opcion": "Antillas Neerlandesas",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 509,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "AGO",
+        "opcion": "Angola",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 510,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ATA",
+        "opcion": "Antártida",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 511,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ARG",
+        "opcion": "Argentina",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 512,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ASM",
+        "opcion": "Samoa Americana",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 513,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "AUT",
+        "opcion": "Austria",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 514,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "AUS",
+        "opcion": "Australia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 515,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ABW",
+        "opcion": "Aruba",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 516,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ALA",
+        "opcion": "Islas Áland",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 517,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "AZE",
+        "opcion": "Azerbaiyán",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 518,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BIH",
+        "opcion": "Bosnia y Herzegovina",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 519,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BRB",
+        "opcion": "Barbados",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 520,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BGD",
+        "opcion": "Bangladesh",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 521,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BEL",
+        "opcion": "Bélgica",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 522,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BFA",
+        "opcion": "Burkina Faso",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 523,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BGR",
+        "opcion": "Bulgaria",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 524,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BHR",
+        "opcion": "Bahréin",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 525,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BDI",
+        "opcion": "Burundi",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 526,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BEN",
+        "opcion": "Benin",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 527,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BLM",
+        "opcion": "San Bartolomé",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 528,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BMU",
+        "opcion": "Bermudas",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 529,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BRN",
+        "opcion": "Brunéi",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 530,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BOL",
+        "opcion": "Bolivia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 531,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BRA",
+        "opcion": "Brasil",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 532,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BHS",
+        "opcion": "Bahamas",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 533,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BTN",
+        "opcion": "Bhután",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 534,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BVT",
+        "opcion": "Isla Bouvet",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 535,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BWA",
+        "opcion": "Botsuana",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 536,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BLR",
+        "opcion": "Belarús",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 537,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "BLZ",
+        "opcion": "Belice",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 538,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "CAN",
+        "opcion": "Canadá",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 539,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "CCK",
+        "opcion": "Islas Cocos",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 540,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "CAF",
+        "opcion": "República Centro-Africana",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 541,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "COG",
+        "opcion": "Congo",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 542,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "CHE",
+        "opcion": "Suiza",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 543,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "CIV",
+        "opcion": "Costa de Marfil",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 544,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "COK",
+        "opcion": "Islas Cook",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 545,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "CHL",
+        "opcion": "Chile",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 546,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "CMR",
+        "opcion": "Camerún",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 547,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "CHN",
+        "opcion": "China",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 548,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "COL",
+        "opcion": "Colombia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 549,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "CRI",
+        "opcion": "Costa Rica",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 550,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "CUB",
+        "opcion": "Cuba",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 551,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "CPV",
+        "opcion": "Cabo Verde",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 552,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "CXR",
+        "opcion": "Islas Christmas",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 553,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "CYP",
+        "opcion": "Chipre",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 554,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "CZE",
+        "opcion": "República Checa",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 555,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "DEU",
+        "opcion": "Alemania",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 556,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "DJI",
+        "opcion": "Yibuti",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 557,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "DNK",
+        "opcion": "Dinamarca",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 558,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "DMA",
+        "opcion": "Domínica",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 559,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "DOM",
+        "opcion": "República Dominicana",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 560,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "DZA",
+        "opcion": "Argel",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 561,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ECU",
+        "opcion": "Ecuador",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 562,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "EST",
+        "opcion": "Estonia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 563,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "EGY",
+        "opcion": "Egipto",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 564,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ESH",
+        "opcion": "Sahara Occidental",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 565,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ERI",
+        "opcion": "Eritrea",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 566,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ESP",
+        "opcion": "España",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 567,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ETH",
+        "opcion": "Etiopía",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 568,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "FIN",
+        "opcion": "Finlandia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 569,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "FJI",
+        "opcion": "Fiji",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 570,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "KLK",
+        "opcion": "Islas Malvinas",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 571,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "FSM",
+        "opcion": "Micronesia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 572,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "FRO",
+        "opcion": "Islas Faroe",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 573,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "FRA",
+        "opcion": "Francia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 574,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "GAB",
+        "opcion": "Gabón",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 575,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "GBR",
+        "opcion": "Reino Unido",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 576,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "GRD",
+        "opcion": "Granada",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 577,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "GEO",
+        "opcion": "Georgia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 578,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "GUF",
+        "opcion": "Guayana Francesa",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 579,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "GGY",
+        "opcion": "Guernsey",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 580,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "GHA",
+        "opcion": "Ghana",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 581,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "GIB",
+        "opcion": "Gibraltar",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 582,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "GRL",
+        "opcion": "Groenlandia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 583,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "GMB",
+        "opcion": "Gambia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 584,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "GIN",
+        "opcion": "Guinea",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 585,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "GLP",
+        "opcion": "Guadalupe",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 586,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "GNQ",
+        "opcion": "Guinea Ecuatorial",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 587,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "GRC",
+        "opcion": "Grecia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 588,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SGS",
+        "opcion": "Georgia del Sur e Islas Sandwich del Sur",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 589,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "GTM",
+        "opcion": "Guatemala",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 590,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "GUM",
+        "opcion": "Guam",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 591,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "GNB",
+        "opcion": "Guinea-Bissau",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 592,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "GUY",
+        "opcion": "Guayana",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 593,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "HKG",
+        "opcion": "Hong Kong",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 594,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "HMD",
+        "opcion": "Islas Heard y McDonald",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 595,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "HND",
+        "opcion": "Honduras",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 596,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "HRV",
+        "opcion": "Croacia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 597,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "HTI",
+        "opcion": "Haití",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 598,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "HUN",
+        "opcion": "Hungría",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 599,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "IDN",
+        "opcion": "Indonesia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 600,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "IRL",
+        "opcion": "Irlanda",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 601,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ISR",
+        "opcion": "Israel",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 602,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "IMN",
+        "opcion": "Isla de Man",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 603,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "IND",
+        "opcion": "India",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 604,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "IOT",
+        "opcion": "Territorio Británico del Océano Índico",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 605,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "IRQ",
+        "opcion": "Irak",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 606,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "IRN",
+        "opcion": "Irán",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 607,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ISL",
+        "opcion": "Islandia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 608,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ITA",
+        "opcion": "Italia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 609,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "JEY",
+        "opcion": "Jersey",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 610,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "JAM",
+        "opcion": "Jamaica",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 611,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "JOR",
+        "opcion": "Jordania",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 612,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "JPN",
+        "opcion": "Japón",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 613,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "KEN",
+        "opcion": "Kenia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 614,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "KGZ",
+        "opcion": "Kirguistán",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 615,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "KHM",
+        "opcion": "Camboya",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 616,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "KIR",
+        "opcion": "Kiribati",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 617,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "COM",
+        "opcion": "Comoros",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 618,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "KNA",
+        "opcion": "San Cristóbal y Nieves",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 619,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "PRK",
+        "opcion": "Corea del Norte",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 620,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "KOR",
+        "opcion": "Corea del Sur",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 621,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "KWT",
+        "opcion": "Kuwait",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 622,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "CYM",
+        "opcion": "Islas Caimán",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 623,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "KAZ",
+        "opcion": "Kazajstán",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 624,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "LAO",
+        "opcion": "Laos",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 625,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "LBN",
+        "opcion": "Líbano",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 626,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "LCA",
+        "opcion": "Santa Lucía",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 627,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "LIE",
+        "opcion": "Liechtenstein",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 628,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "LKA",
+        "opcion": "Sri Lanka",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 629,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "LBR",
+        "opcion": "Liberia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 630,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "LSO",
+        "opcion": "Lesotho",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 631,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "LTU",
+        "opcion": "Lituania",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 632,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "LUX",
+        "opcion": "Luxemburgo",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 633,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "LVA",
+        "opcion": "Letonia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 634,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "LBY",
+        "opcion": "Libia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 635,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MAR",
+        "opcion": "Marruecos",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 636,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MCO",
+        "opcion": "Mónaco",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 637,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MDA",
+        "opcion": "Moldova",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 638,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MNE",
+        "opcion": "Montenegro",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 639,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MDG",
+        "opcion": "Madagascar",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 640,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MHL",
+        "opcion": "Islas Marshall",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 641,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MKD",
+        "opcion": "Macedonia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 642,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MLI",
+        "opcion": "Mali",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 643,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MMR",
+        "opcion": "Myanmar",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 644,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MNG",
+        "opcion": "Mongolia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 645,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MAC",
+        "opcion": "Macao",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 646,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MTQ",
+        "opcion": "Martinica",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 647,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MRT",
+        "opcion": "Mauritania",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 648,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MSR",
+        "opcion": "Montserrat",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 649,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MLT",
+        "opcion": "Malta",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 650,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MUS",
+        "opcion": "Mauricio",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 651,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MDV",
+        "opcion": "Maldivas",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 652,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MWI",
+        "opcion": "Malawi",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 653,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MYS",
+        "opcion": "Malasia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 654,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "MOZ",
+        "opcion": "Mozambique",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 655,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "NAM",
+        "opcion": "Namibia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 656,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "NCL",
+        "opcion": "Nueva Caledonia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 657,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "NER",
+        "opcion": "Níger",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 658,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "NFK",
+        "opcion": "Islas Norkfolk",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 659,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "NGA",
+        "opcion": "Nigeria",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 660,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "NIC",
+        "opcion": "Nicaragua",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 661,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "NLD",
+        "opcion": "Países Bajos",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 662,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "NOR",
+        "opcion": "Noruega",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 663,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "NPL",
+        "opcion": "Nepal",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 664,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "NRU",
+        "opcion": "Nauru",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 665,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "NIU",
+        "opcion": "Niue",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 666,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "NZL",
+        "opcion": "Nueva Zelanda",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 667,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "OMN",
+        "opcion": "Omán",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 668,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "PAN",
+        "opcion": "Panamá",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 669,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "PER",
+        "opcion": "Perú",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 670,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "PYF",
+        "opcion": "Polinesia Francesa",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 671,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "PNG",
+        "opcion": "Papúa Nueva Guinea",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 672,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "PHL",
+        "opcion": "Filipinas",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 673,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "PAK",
+        "opcion": "Pakistán",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 674,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "POL",
+        "opcion": "Polonia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 675,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SPM",
+        "opcion": "San Pedro y Miquelón",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 676,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "PCN",
+        "opcion": "Islas Pitcairn",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 677,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "PRI",
+        "opcion": "Puerto Rico",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 678,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "PSE",
+        "opcion": "Palestina",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 679,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "PRT",
+        "opcion": "Portugal",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 680,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "PLW",
+        "opcion": "Islas Palaos",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 681,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "PRY",
+        "opcion": "Paraguay",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 682,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "QAT",
+        "opcion": "Qatar",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 683,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "REU",
+        "opcion": "Reunión",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 684,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ROU",
+        "opcion": "Rumanía",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 685,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SRB",
+        "opcion": "Serbia y Montenegro",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 686,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "RUS",
+        "opcion": "Rusia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 687,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "RWA",
+        "opcion": "Ruanda",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 688,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SAU",
+        "opcion": "Arabia Saudita",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 689,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SLB",
+        "opcion": "Islas Solomón",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 690,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SYC",
+        "opcion": "Seychelles",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 691,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SDN",
+        "opcion": "Sudán",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 692,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SWE",
+        "opcion": "Suecia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 693,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SGP",
+        "opcion": "Singapur",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 694,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SHN",
+        "opcion": "Santa Elena",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 695,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SVN",
+        "opcion": "Eslovenia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 696,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SJM",
+        "opcion": "Islas Svalbard y Jan Mayen",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 697,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SVK",
+        "opcion": "Eslovaquia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 698,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SLE",
+        "opcion": "Sierra Leona",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 699,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SMR",
+        "opcion": "San Marino",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 700,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SEN",
+        "opcion": "Senegal",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 701,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SOM",
+        "opcion": "Somalia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 702,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SUR",
+        "opcion": "Surinam",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 703,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "STP",
+        "opcion": "Santo Tomé y Príncipe",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 704,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SLV",
+        "opcion": "El Salvador",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 705,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SYR",
+        "opcion": "Siria",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 706,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "SWZ",
+        "opcion": "Suazilandia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 707,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "TCA",
+        "opcion": "Islas Turcas y Caicos",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 708,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "TCD",
+        "opcion": "Chad",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 709,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ATF",
+        "opcion": "Territorios Australes Franceses",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 710,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "TGO",
+        "opcion": "Togo",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 711,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "THA",
+        "opcion": "Tailandia",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 712,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "TZA",
+        "opcion": "Tanzania",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 713,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "TJK",
+        "opcion": "Tayikistán",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 714,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "TKL",
+        "opcion": "Tokelau",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 715,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "TLS",
+        "opcion": "Timor-Leste",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 716,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "TKM",
+        "opcion": "Turkmenistán",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 717,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "TUN",
+        "opcion": "Túnez",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 718,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "TON",
+        "opcion": "Tonga",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 719,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "TUR",
+        "opcion": "Turquía",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 720,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "TTO",
+        "opcion": "Trinidad y Tobago",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 721,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "TUV",
+        "opcion": "Tuvalu",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 722,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "TWN",
+        "opcion": "Taiwán",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 723,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "UKR",
+        "opcion": "Ucrania",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 724,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "UGA",
+        "opcion": "Uganda",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 725,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "USA",
+        "opcion": "Estados Unidos de América",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 726,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "URY",
+        "opcion": "Uruguay",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 727,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "UZB",
+        "opcion": "Uzbekistán",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 728,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "VAT",
+        "opcion": "Ciudad del Vaticano",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 729,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "VCT",
+        "opcion": "San Vicente y las Granadinas",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 730,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "VEN",
+        "opcion": "Venezuela",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 731,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "VGB",
+        "opcion": "Islas Vírgenes Británicas",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 732,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "VIR",
+        "opcion": "Islas Vírgenes de los Estados Unidos de América",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 733,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "VNM",
+        "opcion": "Vietnam",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 734,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "VUT",
+        "opcion": "Vanuatu",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 735,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "WF",
+        "opcion": "Wallis y Futuna",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 736,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "WS",
+        "opcion": "Samoa",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 737,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "YE",
+        "opcion": "Yemen",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 738,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "YT",
+        "opcion": "Mayotte",
+        "explicacion": ""
+    }
+  },
+  {
+    "model": "proyectos.Metadato_opcion",
+    "pk": 739,
+    "fields": {
+        "metadato": 10,
+        "abreviacion": "ZA",
+        "opcion": "Sudáfrica",
+        "explicacion": ""
+    }
+  }
+]

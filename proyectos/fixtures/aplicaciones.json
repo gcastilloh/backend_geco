@@ -1,0 +1,75 @@
+
+[
+    {
+        "model": "proyectos.aplicacion",
+        "pk": 1,
+        "fields": {
+            "nombre": "Concordancias paralelo",
+            "explicacion": "Buscador de palabras en un contexto",
+            "tipo_aplicacion": 1
+        }
+    },
+    {
+        "model": "proyectos.aplicacion",
+        "pk": 2,
+        "fields": {
+            "nombre": "SAUTEE",
+            "explicacion": "Sistema para estudios estilométricos",
+            "tipo_aplicacion": 2
+        }
+    },
+    {
+        "model": "proyectos.aplicacion",
+        "pk": 3,
+        "fields": {
+            "nombre": "Termex",
+            "explicacion": "Extractor de terminos basado en el algritmo C-value",
+            "tipo_aplicacion": 2
+        }
+    },
+    {
+        "model": "proyectos.aplicacion",
+        "pk": 4,
+        "fields": {
+            "nombre": "Similitud",
+            "explicacion": "Visualizar el porcentaje de similitud entre todos los documentos del corpus",
+            "tipo_aplicacion": 2
+        }
+    },
+    {
+        "model": "proyectos.aplicacion",
+        "pk": 5,
+        "fields": {
+            "nombre": "ECODE",
+            "explicacion": "Extractor de contextos definitorios",
+            "tipo_aplicacion": 2
+        }
+    },
+    {
+        "model": "proyectos.aplicacion",
+        "pk": 6,
+        "fields": {
+            "nombre": "TEST_1",
+            "explicacion": "Prueba para paralelos",
+            "tipo_aplicacion": 1
+        }
+    },
+    {
+        "model": "proyectos.aplicacion",
+        "pk": 7,
+        "fields": {
+            "nombre": "TEST_2",
+            "explicacion": "Para ambos tipos",
+            "tipo_aplicacion": 3
+        }
+    },
+    {
+        "model": "proyectos.aplicacion",
+        "pk": 8,
+        "fields": {
+            "nombre": "TEST_3",
+            "explicacion": "test for both",
+            "tipo_aplicacion": 3
+        }
+    }    
+]
