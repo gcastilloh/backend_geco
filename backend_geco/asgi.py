@@ -1,5 +1,5 @@
 """
-ASGI config for backen_geco project.
+ASGI config for backend_geco project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'backen_geco.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'backend_geco.settings')
 
 application = get_asgi_application()
