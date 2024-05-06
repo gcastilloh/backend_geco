@@ -1,6 +1,6 @@
 Instrucciones:
 
-Para la base de dato:
+Para la base de datos:
 
 Instalar postgres, y crear el usuario y la base de datos
 
